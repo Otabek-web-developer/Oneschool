@@ -1,0 +1,12 @@
+@media screen and (max-width: 991px) {
+  .leptop-device
+  {
+    display: none;
+  }
+}
+@media screen and (min-width: 992px){
+.mobile-device
+{
+  display: none;
+}
+}
