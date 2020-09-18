@@ -28,7 +28,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../card hover" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -42,6 +42,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\otabe\WebstormProjects\oneschool" />
       <recent name="C:\Users\otabe\WebstormProjects\oneschool\src\img" />
     </key>
   </component>
@@ -55,7 +56,7 @@
       <updated>1600415596449</updated>
       <workItem from="1600415598736" duration="1326000" />
       <workItem from="1600420309027" duration="16599000" />
-      <workItem from="1600451559444" duration="1312000" />
+      <workItem from="1600451559444" duration="8442000" />
     </task>
     <servers />
   </component>
@@ -67,16 +68,20 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="547" y="262" key="#ESLint/0.0.1366.768@0.0.1366.768" timestamp="1600420700284" />
-    <state x="463" y="138" key="FileChooserDialogImpl" timestamp="1600420841283">
+    <state x="500" y="0" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1600457010368">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="463" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1600420841283" />
+    <state x="500" y="0" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1366.768@0.0.1366.768" timestamp="1600457010368" />
+    <state x="463" y="138" key="FileChooserDialogImpl" timestamp="1600457799992">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1600457799992" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/index.html</url>
+          <url>file://$PROJECT_DIR$/index.html</url>
           <line>170</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
